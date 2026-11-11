@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://neulandwerkstatt-docs.github.io/sitemap.xml
 Sitemap: https://neulandwerkstatt-docs.github.io/packliste-android-docs/sitemap.xml
 Sitemap: https://neulandwerkstatt-docs.github.io/inventarliste-android-docs/sitemap.xml
